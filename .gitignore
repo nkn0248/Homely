@@ -3,3 +3,4 @@
 infra/variable.tf/.blackbox/pubring.gpg~
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
+/himitu.txt
