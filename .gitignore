@@ -1,3 +1,5 @@
 # terraform 
 *.tfstate
-infra/variable.tf
+infra/variable.tf/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
