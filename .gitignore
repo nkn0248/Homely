@@ -9,3 +9,4 @@ infra/variable.tf/.blackbox/pubring.gpg~
 /newhimitu.txt
 /.blackbox/pubring.gpg~
 /.env
+/himitu.md
