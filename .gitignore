@@ -7,3 +7,5 @@ infra/variable.tf/.blackbox/pubring.gpg~
 /secret.txt
 /.secret.txt
 /newhimitu.txt
+/.blackbox/pubring.gpg~
+/.env
