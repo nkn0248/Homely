@@ -1,4 +1,0 @@
-.secret.txt
-himitu.txt
-newhimitu.txt
-secret.txt
