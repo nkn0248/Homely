@@ -6,3 +6,4 @@ infra/variable.tf/.blackbox/pubring.gpg~
 /himitu.txt
 /secret.txt
 /.secret.txt
+/newhimitu.txt
