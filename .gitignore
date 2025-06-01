@@ -1,6 +1,7 @@
 # terraform 
 *.tfstate
 infra/variable.tf/.blackbox/pubring.gpg~
+.blackbox/blackbox-admins.txt
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /himitu.txt
