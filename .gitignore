@@ -5,3 +5,4 @@ infra/variable.tf/.blackbox/pubring.gpg~
 /.blackbox/secring.gpg
 /himitu.txt
 /secret.txt
+/.secret.txt

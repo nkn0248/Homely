@@ -1,2 +1,3 @@
+.secret.txt
 himitu.txt
 secret.txt
